@@ -1,1 +1,1 @@
-# ecomm applicable code
+# ecomm application code
